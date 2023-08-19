@@ -1,1 +1,1 @@
-"# Elementary-Cellular-Automata" 
+Python implementation of elementary Cellular Automata. All the cells in a generation use the same ruleset. Output for all 0-255 rules is stored in separate text files.
